@@ -8,6 +8,6 @@ take input from user as string and parse it then compress string then print resu
 
 * [LZ78](https://github.com/MarwanaMostafa/Lz78)
 
-* [LZW](https://github.com/MarwanaMostafa/LZ77)
+* [LZ77](https://github.com/MarwanaMostafa/LZ77)
 
 * [Standrad_Huffman](https://github.com/MarwanaMostafa/Standrad_Huffman)
